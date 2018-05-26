@@ -1,0 +1,35 @@
+body {
+  padding-top: 60px;
+}
+.row {
+  margin:100px auto;
+}
+
+.line-dark {
+  background-color: #E67F5F;
+}
+.box-shadow {
+  box-shadow: 3px 5px 10px 3px lightgray;
+  border-radius: 0%;
+  border: 0;
+}
+.bg-orange {
+  background-color:#FC8966;
+}
+
+.badge-darken {
+  background-color:#E67F5F;
+}
+.card-header {
+
+  line-height: 150%;
+  font-size: 1.5em;
+}
+.card-body {
+  height: 200px;
+  font-size: 2em;
+}
+.line-center {
+  padding: 0;
+  line-height: 100px;
+}
